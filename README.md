@@ -10,18 +10,16 @@
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [GitHub](#github)
-  ## Installation
-  Dependancies required:
+  * 
+
   ## Usage
   Open application in Heroku and use enter your expense details in the field in order to track your budget.  
-  ![Screenshot of Application]("")
-  ## License
-        
-      This project uses the [No License] license.
-  ## Contributing
-  N/A  
+  ![Screenshot of Application](https://github.com/adamjflynn/PWA-budget-tracker/blob/main/public/assets/CH19screenshot.JPG?raw=true)
+   
   ## Tests
-  undefined
+  
+  
+  
   ## Questions
   Reach out via email or GitHub.  
   adamflynn1@gmail.com  
